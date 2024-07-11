@@ -1,3 +1,0 @@
-dburl=http://localhost:3030/
-username=sri123
-password=sri1234
